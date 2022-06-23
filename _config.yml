@@ -5,3 +5,7 @@ title: BBYP Limited # [The title of your site]
 description: Asset management and investment advisory. # [A short description of your site's purpose]
 
 google_analytics: # [Your Google Analytics tracking ID]
+
+github:
+  is_project_page: false
+  
